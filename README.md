@@ -76,7 +76,7 @@
     />
   </a>
 </p>
-<h1>ㅤ</h1>
+<hr></hr>
 
 
 <!--<div align="center" >
