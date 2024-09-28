@@ -37,7 +37,7 @@
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"
       alt="lua"
       width="40"
       height="40"
