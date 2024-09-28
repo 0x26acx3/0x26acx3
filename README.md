@@ -76,7 +76,7 @@
     />
   </a>
 </p>
-
+<hr></hr>
 <p align="center">
   <img
     align="center"
