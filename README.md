@@ -91,7 +91,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=0x26acx3&"
-    alt="0x26acx3"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=godsnico&"
+    alt="godsnico"
   />
 </p>
